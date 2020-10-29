@@ -46,4 +46,4 @@ Content preferences Page      |  Display Setting Page    |  Data Settings Page  
 
   Users who likes Txt        |  About Setting Page    |  Licenses Settings     |  Settings
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/TxtDetail/screenshot_7.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_9.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_10.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_81.jpg?raw=true)|
+![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/TxtDetail/screenshot_7.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_9.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_10.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_8.jpg?raw=true)|
