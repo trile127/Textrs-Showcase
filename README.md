@@ -44,6 +44,6 @@ Content preferences Page      |  Display Setting Page    |  Data Settings Page  
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_5.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_6.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_7.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_8.jpg?raw=true)|
 
-  Users who likes Txt        |  About Setting Page    |  Licenses Settings     |  Settings
+  Users who likes Txt        |  About Setting Page    |  Licenses Settings     |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/TxtDetail/screenshot_7.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_9.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_10.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_8.jpg?raw=true)|
+![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/TxtDetail/screenshot_7.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_9.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_10.jpg?raw=true)|
