@@ -1,6 +1,14 @@
 # Textrs-Showcase
 
+ Flutter Based Minimalist Twitter Style Social Media App
 
+‘Textrs’ is a light mobile application focused on creating a private social networking environment for its users. All the posts are only text based; no more clickbait photos or videos. 
+
+## Features
+
+ :boom: Textrs app uses `firestore` database.:boom:
+ 
+ 
 ## Screenshots
 
 Welcome Page               |  Login Page               | Signup Page               |  Forgot Password Page
