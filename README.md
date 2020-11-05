@@ -5,45 +5,42 @@
 
 Welcome Page               |  Login Page               | Signup Page               |  Forgot Password Page
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Auth/screenshot_1.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Auth/screenshot_2.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Auth/screenshot_3.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Auth/screenshot_4.jpg?raw=true)|
+![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Auth/screenshot_1.png?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Auth/screenshot_2.png?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Auth/screenshot_3.png?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Auth/screenshot_4.png?raw=true)|
 
-Home Page Sidebar         |  Home Page       |   Home Page               |  Home Page
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Home/screenshot_5.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Home/screenshot_2.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Home/screenshot_7.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Home/screenshot_6.jpg?raw=true)|
+Home Page Sidebar         |  Home Page       |   Home Page               
+:-------------------------:|:-------------------------:|:-------------------------:|
+![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Home/screenshot_5.png?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Home/screenshot_2.png?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Home/screenshot_3.png?raw=true)|
 
 Compose Txt Page                  | Reply To Txt       |   Reply to Txt      |     Compose Retxt with comment
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/CreateTxt/screenshot_1.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/CreateTxt/screenshot_2.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/CreateTxt/screenshot_4.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/CreateTxt/screenshot_3.jpg?raw=true)|
+![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/CreateTxt/screenshot_1.png?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/CreateTxt/screenshot_2.png?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/CreateTxt/screenshot_4.png?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/CreateTxt/screenshot_3.png?raw=true)|
 
 Txt Detail Page         |  Txt Thread              |   Nested Txt Thread     | Txt options
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/TxtDetail/screenshot_3.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/TxtDetail/screenshot_4.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/TxtDetail/screenshot_1.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/TxtDetail/screenshot_2.jpg?raw=true)|
+![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/TxtDetail/screenshot_3.png?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/TxtDetail/screenshot_4.png?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/TxtDetail/screenshot_1.png?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/TxtDetail/screenshot_2.png?raw=true)|
 
-Notification Page         |  Notification Page         |   Notification Page       | Notification Setting Page
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Notification/screenshot_1.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Notification/screenshot_2.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Notification/screenshot_3.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Notification/screenshot_4.jpg?raw=true)|
+Notification Page         |
+:-------------------------:|
+![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Notification/screenshot_2.png?raw=true)|
 
-Profile Page                |  Profile Page            |   Profile  Page       | Profile  Page
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Profile/screenshot_1.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Profile/screenshot_2.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Profile/screenshot_4.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Profile/screenshot_7.jpg?raw=true)|
+Profile Page                |  Profile Page            |
+:-------------------------:|:-------------------------:|
+![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Profile/screenshot_1.png?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Profile/screenshot_3.png?raw=true)|
 
-Select User Page                |  Chat Page            |    Chat Users List       | Conversation Info Page
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Chat/screenshot_1.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Chat/screenshot_2.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Chat/screenshot_3.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Chat/screenshot_4.jpg?raw=true)|
-
-Search Page                |  Search Setting Page            |  Txt Options - 1     | Txt Options - 2
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Search/screenshot_1.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Search/screenshot_2.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/TxtDetail/screenshot_5.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/TxtDetail/screenshot_6.jpg?raw=true)|
-
-
-Setting Page                |  Account Setting Page    |  Privacy Setting Page    | Privacy Settings Page
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_1.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_2.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_4.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_3.jpg?raw=true)|
-
-Content preferences Page      |  Display Setting Page    |  Data Settings Page    | Accessibility Settings
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_5.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_6.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_7.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_8.jpg?raw=true)|
-
-  Users who likes Txt        |  About Setting Page    |  Licenses Settings     
+Select User Page                |  Chat Page            |Conversation Info Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/TxtDetail/screenshot_7.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_9.jpg?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_10.jpg?raw=true)|
+![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Chat/screenshot_1.png?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Chat/screenshot_2.png?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Chat/screenshot_3.png?raw=true)|
+
+Search Page                |  Txt Options - 1     
+:-------------------------:|:-------------------------:|
+![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Search/screenshot_1.png?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/TxtDetail/screenshot_1.png?raw=true)|
+
+
+Setting Page                |  Account Setting Page    
+:-------------------------:|:-------------------------:|
+![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_1.png?raw=true)|![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_2.png?raw=true)|
+
+
+  About Setting Page    
+:-------------------------:|
+![](https://github.com/trile127/Textrs-Showcase/blob/main/screenshots/Settings/screenshot_9.png?raw=true)|
