@@ -1,4 +1,4 @@
-# Textrs-Showcase - Need to replace the rest with revamped images. Will do this week!
+# Textrs-Showcase
 
 
 ## Screenshots
