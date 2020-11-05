@@ -4,6 +4,9 @@
 
 ‘Textrs’ is a light mobile application focused on creating a private social networking environment for its users. All the posts are only text based; no more clickbait photos or videos. 
 
+The repo with all the code is set to private!
+
+
 ## Features
 
  :boom: Textrs app uses `firestore` database.:boom:
